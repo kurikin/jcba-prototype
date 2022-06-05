@@ -1,0 +1,46 @@
+{
+  "project_info": {
+    "project_number": "1009778675079",
+    "project_id": "jcba-6eacf",
+    "storage_bucket": "jcba-6eacf.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1009778675079:android:bb4d180d6fa40220b51722",
+        "android_client_info": {
+          "package_name": "com.kurikin.jcba"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1009778675079-7hhtuupb53igq5u2i87dtftdbqp8sism.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDTi7C1nULTEcrhbHOHVwW3vgqxkcfuiUI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1009778675079-7hhtuupb53igq5u2i87dtftdbqp8sism.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "1009778675079-moio6eal88ktiaicpvbnrbfvep0n1kh8.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.kurikin.jcba"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
