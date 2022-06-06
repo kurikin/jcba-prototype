@@ -39,14 +39,10 @@ URL: https://testflight.apple.com/join/iXFbMXQu
 
 <p align="right">(<a href="#top">back to top</a>)</p>
 
-
-
-<!-- USAGE EXAMPLES -->
-## Usage
-
-Use this space to show useful examples of how a project can be used. Additional screenshots, code examples and demos work well in this space. You may also link to more resources.
-
-_For more examples, please refer to the [Documentation](https://example.com)_
+## 使用技術
+* [Flutter](https://flutter.dev)
+* [Firebase Authentification](https://firebase.google.com/docs/auth)（会員登録 & ログイン機能）
+* [Cloud Firestore](https://firebase.google.com/docs/firestore)（ユーザー情報の管理DB）
 
 <p align="right">(<a href="#top">back to top</a>)</p>
 
