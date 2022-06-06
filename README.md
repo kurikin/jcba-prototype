@@ -5,7 +5,11 @@
 
 <!-- ABOUT THE PROJECT -->
 ## このプロジェクトについて
-[日本キャップ野球協会](https://kantoregioncapbase.wixsite.com/website) のプロトタイプアプリです。
+[日本キャップ野球協会](https://kantoregioncapbase.wixsite.com/website) のプロトタイプアプリです。<br />
+
+以下のパブリックリンクから、TestFlight経由でアプリをダウンロードできます。<br />
+
+URL: https://testflight.apple.com/join/iXFbMXQu
 
 <p align="right">(<a href="#top">back to top</a>)</p>
 
@@ -46,17 +50,15 @@ _For more examples, please refer to the [Documentation](https://example.com)_
 
 <p align="right">(<a href="#top">back to top</a>)</p>
 
-
-
 <!-- ROADMAP -->
-## Roadmap
+## 機能の実装状況
 
-- [ ] Feature 1
-- [ ] Feature 2
-- [ ] Feature 3
-- [ ] Nested Feature
-
-See the [open issues](https://github.com/github_username/repo_name/issues) for a full list of proposed features (and known issues).
+- [x] 試合速報画面
+- [x] 全チームの一覧
+- [x] 選手情報の詳細
+- [x] ユーザー登録 & ログイン
+- [x] 会員証表示
+- [ ] 試合の登録 & 出場管理
 
 <p align="right">(<a href="#top">back to top</a>)</p>
 
