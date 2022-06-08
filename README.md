@@ -1,16 +1,33 @@
-# JCBA Prototype
+<h1>JCBA Prototype</h1>
 
-A new Flutter project.
+![Flutter](https://img.shields.io/badge/Flutter-34485a.svg?style=flat-square&logo=flutter)
+![Firebase](https://img.shields.io/badge/Firebase-34485a.svg?style=flat-square&logo=firebase)
 
-## Getting Started
+<!-- ABOUT THE PROJECT -->
+## このプロジェクトについて
+[日本キャップ野球協会](https://kantoregioncapbase.wixsite.com/website) の公式アプリ（プロトタイプ）です。<br />
 
-This project is a starting point for a Flutter application.
+以下のパブリックリンクから、TestFlight経由でアプリをダウンロードできます。<br />
 
-A few resources to get you started if this is your first Flutter project:
+URL: https://testflight.apple.com/join/iXFbMXQu
 
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
+<p align="right">(<a href="#top">back to top</a>)</p>
 
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+## 使用技術
+* [Flutter](https://flutter.dev)
+* [Firebase Authentification](https://firebase.google.com/docs/auth)（会員登録 & ログイン機能）
+* [Cloud Firestore](https://firebase.google.com/docs/firestore)（ユーザー情報の管理DB）
+
+<p align="right">(<a href="#top">back to top</a>)</p>
+
+<!-- ROADMAP -->
+## 機能の実装状況
+
+- [x] 試合速報画面
+- [x] 全チームの一覧
+- [x] 選手情報の詳細
+- [x] ユーザー登録 & ログイン
+- [x] 会員証表示
+- [ ] 試合の登録 & 出場管理
+
+<p align="right">(<a href="#top">back to top</a>)</p>
