@@ -1,4 +1,4 @@
-<h1>JCBA Prototype</h1>
+<h1>JCBA 公式アプリ</h1>
 
 ![Flutter](https://img.shields.io/badge/Flutter-34485a.svg?style=flat-square&logo=flutter)
 ![Firebase](https://img.shields.io/badge/Firebase-34485a.svg?style=flat-square&logo=firebase)
