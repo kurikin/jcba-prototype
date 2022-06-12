@@ -17,13 +17,26 @@ URL: https://testflight.apple.com/join/iXFbMXQu
 * [Flutter](https://flutter.dev)
 * [Firebase Authentification](https://firebase.google.com/docs/auth)（会員登録 & ログイン機能）
 * [Cloud Firestore](https://firebase.google.com/docs/firestore)（ユーザー情報の管理DB）
+* 選手・試合結果などの情報は、[キャップ野球情報局](https://cap-baseball.com)のAPIから取得
+
+<p align="right">(<a href="#top">back to top</a>)</p>
+
+## スクリーンショット
+<div>
+  <img width="26%" src="images/screenshot-1.png" />
+  <img width="26%" src="images/screenshot-2.PNG" />
+  <img width="26%" src="images/screenshot-3.PNG" />
+  <img width="26%" src="images/screenshot-4.PNG" />
+  <img width="26%" src="images/screenshot-5.PNG" />
+  <img width="26%" src="images/screenshot-6.PNG" />
+</div>
 
 <p align="right">(<a href="#top">back to top</a>)</p>
 
 <!-- ROADMAP -->
 ## 機能の実装状況
 
-- [x] 試合速報画面
+- [x] 試合速報
 - [x] 全チームの一覧
 - [x] 選手情報の詳細
 - [x] ユーザー登録 & ログイン
