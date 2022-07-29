@@ -15,7 +15,7 @@ URL: https://testflight.apple.com/join/iXFbMXQu
 
 ## 使用技術
 * [Flutter](https://flutter.dev)
-* [Firebase Authentification](https://firebase.google.com/docs/auth)（会員登録 & ログイン機能）
+* [Firebase Authentication](https://firebase.google.com/docs/auth)（会員登録 & ログイン機能）
 * [Cloud Firestore](https://firebase.google.com/docs/firestore)（ユーザー情報の管理DB）
 * 選手・試合結果などの情報は、[キャップ野球情報局](https://cap-baseball.com)のAPIから取得
 
