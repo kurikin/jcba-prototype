@@ -24,11 +24,11 @@ URL: https://testflight.apple.com/join/iXFbMXQu
 ## スクリーンショット
 <div>
   <img width="26%" src="images/screenshot-1.png" />
-  <img width="26%" src="images/screenshot-2.png" />
-  <img width="26%" src="images/screenshot-3.png" />
-  <img width="26%" src="images/screenshot-4.png" />
-  <img width="26%" src="images/screenshot-5.png" />
-  <img width="26%" src="images/screenshot-6.png" />
+  <img width="26%" src="images/screenshot-2.PNG" />
+  <img width="26%" src="images/screenshot-3.PNG" />
+  <img width="26%" src="images/screenshot-4.PNG" />
+  <img width="26%" src="images/screenshot-5.PNG" />
+  <img width="26%" src="images/screenshot-6.PNG" />
 </div>
 
 <p align="right">(<a href="#top">back to top</a>)</p>
